@@ -22,3 +22,5 @@ elif user_input == "scissors":
         print("Scissors cuts paper! You win!!!")
     else:
         print("Rock smashes scissors! You lose.")
+else:
+    print("Please give proper input")
